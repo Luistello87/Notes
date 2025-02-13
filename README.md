@@ -3,3 +3,4 @@
 - [AtKlass](https://app.atklass.com)
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 
+- [summary of this course](comp1238.md)
